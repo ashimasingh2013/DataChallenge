@@ -17,5 +17,5 @@ University: North Carolina State University
  - Web and Cloud Application Development
  - Programming in Java, JavaScript, Typescript, Python, C#
 
-###### My Mentory 
-![Mentor_LinkedIn](https://www.linkedin.com/in/rekha-belur-29719b1/)
+###### My Mentor
+![LinkedIn](https://www.linkedin.com/in/rekha-belur-29719b1/)
